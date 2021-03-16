@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fifteens</string>
+    <string name="NewGame">Новая игра</string>
+    <string name="Records">Рекорды</string>
+    <string name="Back">Назад</string>
+    <string name="magic">Магический квадрат</string>
+    <string name="Classic">Классика</string>
+    <string name="_2x7">2x7</string>
+    <string name="_2x6">2x6</string>
+    <string name="_2x5">2x5</string>
+    <string name="_2x4">2x4</string>
+    <string name="_2x3">2x3</string>
+    <string name="_2x8">2x8</string>
+    <string name="_3x3">3x3</string>
+    <string name="_3x4">3x4</string>
+    <string name="_3x5">3x5</string>
+    <string name="_4x4">4x4</string>
+    <string name="Ez">Легко</string>
+    <string name="Normal">Нормально</string>
+    <string name="Hard">Сложно</string>
+    <string name="StartGame">Начать игру</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="textMod">Режим игры</string>
+    <string name="sizeFieldString">Размер игрового поля</string>
+    <string name="stringDiff">Сложность</string>
+    <string name="under">Все понятно!</string>
+</resources>

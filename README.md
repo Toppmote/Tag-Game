@@ -1,4 +1,4 @@
-# Game Fifteens
+# Tag-Game
 
 
 ##### This project on Java implements a tag game with modifications for Adroid. The modifications consist in changing the game mode and changing the dimension of the original field. There are 2 game modes in total: 
